@@ -13,7 +13,7 @@
 > I validate real-world risk with exploit proofs, tight code review, and clear remediation that teams can ship immediately.
 
 ### 🔗 Quick Nav
-- 👉 [Public Contest Audits](https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file#public)
+- 🔓 [Public Contest Audits](https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file#public)
 - 📊 [Summary Stats](#-summary-stats)
 - 📬 [Contact](#-contact)
 
@@ -56,7 +56,7 @@ My workflow pairs an attacker’s mindset with disciplined audit practices to su
 
 
 
-## Public
+## 🔓 Public Contest Audits
 
 | Rank | Company | Description | Ecosystem | Findings | Report |
 | ---- | -------- | ----------- | --------- | -------- | ------ |
