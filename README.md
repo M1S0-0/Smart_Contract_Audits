@@ -36,7 +36,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 ## 📊 Summary Stats
 <!-- Update these numbers as you go -->
 <p>
-  <img src="https://img.shields.io/badge/Reports-1-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reports-3-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Public%20Contests-1-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Private%20Audits-0-64748b?style=flat-square" />
   <img src="https://img.shields.io/badge/Critical%2FHigh-1-red?style=flat-square" />
