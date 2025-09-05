@@ -13,7 +13,7 @@
 > I validate real-world risk with exploit proofs, tight code review, and clear remediation that teams can ship immediately.
 
 ### 🔗 Quick Nav
-- 👉 [Public Contest Audits](#-public-contest-audits)
+- 👉 [Public Contest Audits](https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file#public)
 - 🔐 [Private / Client Audits](#-private-client-audits) *(add this section when ready)*
 - 📊 [Summary Stats](#-summary-stats)
 - 📬 [Contact](#-contact)
