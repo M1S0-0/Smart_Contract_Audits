@@ -3,6 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Smart%20Contracts-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Ecosystem-Solidity%20%7C%20EVM%20%7C%20Ethereum%20%7C%20Polygon%20%7C%20BSC-10b981?style=flat-square" />
+   <img src="https://img.shields.io/badge/Freelance-Open-brightgreen?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Last%20Updated-2025--09--05-334155?style=flat-square" />
 </p>
 
@@ -20,8 +21,8 @@
 I am a security researcher specializing in **Solidity smart contract audits** with a focus on DeFi, lending/borrowing, staking, bridges, and protocol-level security.  
 My workflow blends an **attacker’s mindset** with disciplined audit practices to deliver **impactful, fixable findings** before they are exploited.  
 
-I am currently open for **freelance collaborations** and **contract-based engagements**.     <img src="https://img.shields.io/badge/Freelance-Open-brightgreen?style=flat-square" />
-📩 For inquiries, please reach out via the contact links below.  
+I am currently open for **freelance collaborations** and **contract-based engagements**.  
+📩 For inquiries, please reach out via the contact links.  
 
 
 ---
