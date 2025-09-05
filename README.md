@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/Last%20Updated-2025--09--05-334155?style=flat-square" />
 </p>
 
-> **Sharp, adversarial auditing for DeFi and on-chain protocols.**  
-> I validate real-world risk with exploit proofs, tight code review, and clear remediation that teams can ship immediately.
-
 ### 🔗 Quick Nav
 - 🔓 [Public Contest Audits](#-public-contest-audits)
 - 📊 [Summary Stats](#-summary-stats)
