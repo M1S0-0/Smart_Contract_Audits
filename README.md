@@ -1,4 +1,4 @@
-# 🔒 M1S0 — Smart Contract Audits
+# 🔒 M1S0 | Smart Contract Auditor
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Smart%20Contracts-blueviolet?style=flat-square" />
