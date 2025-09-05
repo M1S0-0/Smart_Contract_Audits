@@ -28,9 +28,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 <p>
   <a href="https://x.com/UnknownMnz"><img src="https://img.shields.io/badge/Twitter-@M1S0-1DA1F2?style=flat-square&logo=x" /></a>
   <a href="https://www.linkedin.com/in/m1s0/"><img src="https://img.shields.io/badge/LinkedIn-M1S0-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/M1S0_MS">
-    <img src="https://img.shields.io/badge/Telegram-@M1S0_MS-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
+  <a href="https://t.me/M1S0_MS"><img src="https://img.shields.io/badge/Telegram-@M1S0_MS-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
