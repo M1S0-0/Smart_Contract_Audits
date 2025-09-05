@@ -28,7 +28,6 @@ I am currently open for **freelance collaborations** and **contract-based engage
 <p>
   <a href="https://x.com/UnknownMnz"><img src="https://img.shields.io/badge/Twitter-@M1S0-1DA1F2?style=flat-square&logo=x" /></a>
   <a href="https://www.linkedin.com/in/m1s0/"><img src="https://img.shields.io/badge/LinkedIn-M1S0-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://bugcrowd.com/M1S0"><img src="https://img.shields.io/badge/Bugcrowd-Profile-FF5500?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
 </p>
 
 ---
