@@ -18,8 +18,7 @@
 ---
 ## 🧠 About Me  
 
-I am a security researcher specializing in **Solidity smart contract audits** with a focus on DeFi, lending/borrowing, staking, bridges, and protocol-level security.  
-My workflow blends an **attacker’s mindset** with disciplined audit practices to deliver **impactful, fixable findings** before they are exploited.  
+I specialize in Solidity smart contract audits across DeFi, lending/borrowing, staking, bridges, and tokenomics. My process blends an attacker’s mindset with disciplined audits to deliver actionable findings that protect protocols before they are exploited.
 
 I am currently open for **freelance collaborations** and **contract-based engagements**.  
 📩 For inquiries, please reach out via the contact links.  
