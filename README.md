@@ -14,25 +14,24 @@
 
 ### 🔗 Quick Nav
 - 👉 [Public Contest Audits](https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file#public)
-- 🔐 [Private / Client Audits](#-private-client-audits) *(add this section when ready)*
 - 📊 [Summary Stats](#-summary-stats)
 - 📬 [Contact](#-contact)
 
 ---
 
-## 🧠 About This Portfolio
+## 🧠 About Me
 
 I specialize in **smart contract security** across lending/borrowing, staking, bridges, tokenomics, and protocol-level mechanics.  
 My workflow pairs an attacker’s mindset with disciplined audit practices to surface **impactful, fixable issues** before they’re exploited.
 
 <details>
-<summary><b>What I Deliver</b> (click)</summary>
+<summary><b>What I Deliver</b></summary>
 
-- ⚡ **Exploit-driven validation** — proofs that demonstrate practical impact.  
-- 🛠️ **Clear fixes** — precise remediation and safer patterns.  
-- 🧪 **Structured testing** — invariants, state transitions, and economic edge cases.  
-- 🧭 **Severity mapping** — Critical / High / Medium / Low/Info, with rationale.  
-- 🔁 **Dev-friendly diffs** — highlight risky code paths and safe rewrites.
+- ⚡ **Exploit-driven validation**: proofs that demonstrate practical impact.  
+- 🛠️ **Clear fixes**: precise remediation and safer patterns.  
+- 🧪 **Structured testing**: invariants, state transitions, and economic edge cases.  
+- 🧭 **Severity mapping**: Critical / High / Medium / Low/Info, with rationale.  
+- 🔁 **Dev-friendly diffs**: highlight risky code paths and safe rewrites.
 </details>
 
 ---
