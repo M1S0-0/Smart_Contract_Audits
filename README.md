@@ -25,16 +25,6 @@ My workflow pairs an attacker’s mindset with disciplined audit practices to su
 
 ---
 
-## 📊 Summary Stats
-<!-- Update these numbers as you go -->
-<p>
-  <img src="https://img.shields.io/badge/Reports-1-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Public%20Contests-1-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Private%20Audits-0-64748b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Critical%2FHigh-1-red?style=flat-square" />
-</p>
-
----
 
 ## 📬 Contact
 <p>
@@ -43,6 +33,16 @@ My workflow pairs an attacker’s mindset with disciplined audit practices to su
   <a href="https://bugcrowd.com/M1S0"><img src="https://img.shields.io/badge/Bugcrowd-Profile-FF5500?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
 </p>
 
+---
+
+## 📊 Summary Stats
+<!-- Update these numbers as you go -->
+<p>
+  <img src="https://img.shields.io/badge/Reports-1-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Contests-1-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Private%20Audits-0-64748b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Critical%2FHigh-1-red?style=flat-square" />
+</p>
 
 
 ## 🔓 Public Contest Audits
