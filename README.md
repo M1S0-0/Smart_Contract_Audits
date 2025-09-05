@@ -2,10 +2,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Smart%20Contracts-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Method-Exploit%20POCs%20%7C%20Code%20Review%20%7C%20Threat%20Modeling-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ecosystems-ETH%20%7C%20BSC%20%7C%20Polygon%20%7C%20Solana-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ecosystem-Solidity%20%7C%20EVM%20%7C%20Ethereum%20%7C%20Polygon%20%7C%20BSC-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/Platforms-Sherlock%20%7C%20Code4rena%20%7C%20Immunefi-64748b?style=flat-square" />
   <img src="https://img.shields.io/badge/Freelance-Open-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Method-Exploit%20POCs%20%7C%20Code%20Review%20%7C%20Threat%20Modeling-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Last%20Updated-2025--09--05-334155?style=flat-square" />
 </p>
 
@@ -23,16 +23,6 @@
 
 I specialize in **smart contract security** across lending/borrowing, staking, bridges, tokenomics, and protocol-level mechanics.  
 My workflow pairs an attacker’s mindset with disciplined audit practices to surface **impactful, fixable issues** before they’re exploited.
-
-<details>
-<summary><b>What I Deliver</b></summary>
-
-- ⚡ **Exploit-driven validation**: proofs that demonstrate practical impact.  
-- 🛠️ **Clear fixes**: precise remediation and safer patterns.  
-- 🧪 **Structured testing**: invariants, state transitions, and economic edge cases.  
-- 🧭 **Severity mapping**: Critical / High / Medium / Low/Info, with rationale.  
-- 🔁 **Dev-friendly diffs**: highlight risky code paths and safe rewrites.
-</details>
 
 ---
 
