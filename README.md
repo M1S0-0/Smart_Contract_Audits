@@ -17,11 +17,14 @@
 - 📬 [Contact](#-contact)
 
 ---
+## 🧠 About Me  
 
-## 🧠 About Me
+I am a security researcher specializing in **Solidity smart contract audits** with a focus on DeFi, lending/borrowing, staking, bridges, and protocol-level security.  
+My workflow blends an **attacker’s mindset** with disciplined audit practices to deliver **impactful, fixable findings** before they are exploited.  
 
-I specialize in **smart contract security** across lending/borrowing, staking, bridges, tokenomics, and protocol-level mechanics.  
-My workflow pairs an attacker’s mindset with disciplined audit practices to surface **impactful, fixable issues** before they’re exploited.
+I am currently open for **freelance collaborations** and **contract-based engagements**.  
+📩 For inquiries, please reach out via the contact links below.  
+
 
 ---
 
