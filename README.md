@@ -60,5 +60,5 @@ My workflow pairs an attacker’s mindset with disciplined audit practices to su
 
 | Rank | Company | Description | Ecosystem | Findings | Status | Report |
 | ---- | -------- | ----------- | --------- | -------- | ------ | ------|
-| 1 | ![Metropolis](./assets/logos/metropolis.png) | Lending / Borrowing | ![EVM](./assets/chains/evm.svg) | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅/Acknowledged 🟠 | [View Report](./reports/Metropolis.pdf) |
+| 1 | ![Metropolis](./assets/logos/metropolis.png) | Lending / Borrowing | ![EVM](./assets/chains/evm.svg) | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | [View Report](./reports/Metropolis.pdf) |
 
