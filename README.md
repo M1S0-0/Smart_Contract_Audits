@@ -48,7 +48,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 | Rank | Company | Description | Ecosystem | Findings | Status | Report |
 |------|---------|-------------|-----------|----------|--------|--------|
 | 3 | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/66a3a7f0b77695001181f2de/logo.png" alt="Metropolis" width="15"/> [Layer3](https://layer3.xyz/) | Incentive Infrastructure | ♦ EVM | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | [![View Report](https://img.shields.io/badge/View_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](./reports/Metropolis_Audit.pdf) |
-| 3 | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/680b5a0240041c22836c43d3/logo.png" alt="noya" width="15"/> [noya](https://noya.ai/) | Decentralized finance | ♦ EVM | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | [![View Report](https://img.shields.io/badge/View_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](./reports/Metropolis_Audit.pdf) |
+| Ack | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/680b5a0240041c22836c43d3/logo.png" alt="noya" width="15"/> [noya](https://noya.ai/) | Decentralized finance | ♦ EVM | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | [![View Report](https://img.shields.io/badge/View_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](./reports/Metropolis_Audit.pdf) |
 
 
 
