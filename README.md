@@ -51,3 +51,13 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 
 
+## 🏆 Hall of Fame (Smart Contracts)  
+<p align="left">
+  <a href="https://layer3.xyz/" title="LAYER3">
+    <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/66a3a6fab77695000a81f2cb/logo.png?timestamp=1754581665" alt="LAYER3" height="50" />
+  </a>&nbsp;&nbsp;
+  <a href="https://noya.ai/" title="NOYA">
+    <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/680b5a0240041c22836c43d3/logo.png?timestamp=1755521341" alt="NOYA" height="50" />
+  </a>&nbsp;&nbsp;
+
+</p>
